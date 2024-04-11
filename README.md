@@ -25,3 +25,4 @@ requirement.txt: Text file listing required libraries and their versions.
 Run python gesture_detection.py --input_video test_video.mp4 --gesture_representation gesture_image.png --output_video output_video.mp4 to process the test video and generate the annotated output video.
 Adjust parameters such as model architecture, confidence threshold, and annotation style as needed.
 6- using streamlit for showing the working.
+7-NOTE- TO USE THIS YOU HAVE TO RUN THE COMMAND "STREAMLIT RUN APP.PY"
